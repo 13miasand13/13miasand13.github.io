@@ -681,13 +681,13 @@ cite {
     .field__email__textual {
         padding: 16px 16px;
         text-align: center;
-        font-size: 10px;
+        font-size: 8px;
         background-size: 15%;
     }
     
     .field__type__submit {
         padding: 16px 16px;
-        font-size: 10px;
+        font-size: 8px;
     }
 }
 
